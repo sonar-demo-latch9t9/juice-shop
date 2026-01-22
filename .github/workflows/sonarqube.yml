@@ -9,7 +9,7 @@ on:
 
 jobs:
   build:
-    name: Build and analyze
+    name: SQS Build and analyze
     runs-on: macos-latest
     
     steps:
